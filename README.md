@@ -28,7 +28,7 @@ Collection of Rust repos useful for Red Teamers.
 - https://github.com/mullvad/windows-service-rs
 - https://github.com/janoglezcampos/rust_syscalls
 
-# linux
+### linux
 - https://github.com/jasonwhite/mando
 - https://github.com/jasonwhite/syscalls
 
