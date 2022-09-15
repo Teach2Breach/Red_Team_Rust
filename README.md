@@ -32,6 +32,13 @@ Collection of Rust repos useful for Red Teamers.
 - https://github.com/jasonwhite/mando
 - https://github.com/jasonwhite/syscalls
 
+### shells and proxies
+- https://github.com/shadowsocks/shadowsocks-rust
+- https://github.com/g0rsec/rust-reverse-shell
+- https://github.com/CypElf/Reverse-shell
+- https://github.com/dzobbe/rust-proxy
+- https://github.com/xnuter/http-tunnel
+
 ### misc
 - https://github.com/cRustydev/rust_offensive_security
 - https://github.com/postrequest/ifcfg-rs
