@@ -27,6 +27,8 @@ Collection of Rust repos useful for Red Teamers.
 - https://github.com/postrequest/wintools
 - https://github.com/mullvad/windows-service-rs
 - https://github.com/janoglezcampos/rust_syscalls
+- https://learn.microsoft.com/en-us/windows/dev-environment/rust/rust-for-windows (official MS docs)
+- https://microsoft.github.io/windows-docs-rs/doc/windows/ (official Windows crate per MS)
 
 ### linux
 - https://github.com/jasonwhite/mando
@@ -43,5 +45,7 @@ Collection of Rust repos useful for Red Teamers.
 - https://github.com/cRustydev/rust_offensive_security
 - https://github.com/postrequest/ifcfg-rs
 - https://github.com/Stebalien/tempfile
+- https://github.com/johnthagen/min-sized-rust (reduce Rust binary size)
+- https://github.com/evilsocket/jscythe 
 
 
