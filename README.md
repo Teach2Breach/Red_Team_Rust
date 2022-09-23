@@ -4,6 +4,7 @@ Collection of Rust repos useful for Red Teamers.
 ## repos
 
 ### Collections
+- https://github.com/memN0ps?tab=repositories
 - https://github.com/trickster0/OffensiveRust
 - https://github.com/skerkour/black-hat-rust
 
@@ -18,6 +19,7 @@ Collection of Rust repos useful for Red Teamers.
 - https://github.com/b1tg/rs_shellcode
 - https://github.com/trickster0/rust-windows-shellcode-custom
 - https://github.com/postrequest/donut-rs
+- https://github.com/memN0ps/srdi-rs
 
 ### windows
 - https://github.com/microsoft/windows-rs
